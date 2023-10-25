@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>thread_pool_ros_package</name>
+  <version>0.0.0</version>
+  <description>The eigen_matrix_utils package</description>
+
+  <author email="nicola.pedrocchi@stiima.cnr.it">Mariano Trebino</author>
+  <maintainer email="nicola.pedrocchi@stiima.cnr.it">Nicola Pedrocchi</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</depend>
+    
+  <export>
+  </export>
+</package>
